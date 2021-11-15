@@ -1,0 +1,7 @@
+{
+  "name": "iraqToursGuideIonicApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
